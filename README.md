@@ -1,4 +1,4 @@
-# Online Admission Application System
+# Online Admission Application System Fronten
 
 This project consists of a series of HTML files designed to create a responsive and user-friendly web interface for an online admission application system. The system includes various features such as a navigation bar, stepper for the admission process, program selection, and more.
 
@@ -23,7 +23,7 @@ The repository contains all the HTML, CSS, and JavaScript files required for the
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
+   git clone (https://github.com/Ornab95/SEU_Online_Admition_System-Fronten.git)
 Open the Project:
 Navigate to the project directory and open the HTML files in your preferred web browser to view the interface.
 
